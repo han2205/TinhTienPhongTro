@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Tiêu đề
-st.title("🏠 Tính Tiền Phòng Trọ")
+st.title("🏠 Tính Tiền Phòng Trọ - NHÓM 2")
 
 st.write("### Nhập thông tin")
 
